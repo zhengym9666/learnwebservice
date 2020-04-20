@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.jetty.aggregate:jetty-webapp:unknown">
+    <CLASSES>
+      <root url="jar://D:/Mavenrepo/org/eclipse/jetty/aggregate/jetty-webapp/unknown/jetty-webapp-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Mavenrepo/org/eclipse/jetty/aggregate/jetty-webapp/unknown/jetty-webapp-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Mavenrepo/org/eclipse/jetty/aggregate/jetty-webapp/unknown/jetty-webapp-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
